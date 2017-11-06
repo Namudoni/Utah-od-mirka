@@ -1,0 +1,223 @@
+body {
+    background-color: papayawhip;
+    color: sandybrown;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Helvetica Neue';
+}
+
+.menu {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu ul {
+    display: inline-flex;
+    font-weight: 100;
+    font-size: 30;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.menu ul li {
+    list-style: none;
+    margin: 3px;
+    padding: 10px;
+    border: 5px solid #ffffff;
+    border-radius: 360px;
+    background-color: sandybrown;
+}
+
+.menu ul li:hover {
+    background-color: papayawhip;
+    color: sandybrown;
+    border: 5px solid sandybrown;
+}
+
+.logo1 {
+    text-align: center;
+}
+
+.logo1 h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 290;
+    border-top: 5px solid #ffffff;
+    border-bottom: 5px solid #ffffff;
+    height: 420px;
+    margin-top: 0px;
+    background-image: url('utah1.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+.logo1 p {
+    color: white;
+    margin-top: -330px;
+    font-weight: 100;
+    font-size: 80;
+    font-style: italic;
+}
+
+.welcome1{
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    font-size: 60;
+    background-color: sandybrown;
+    border: 5px solid #ffffff;
+    border-radius: 360px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.welcome2 {
+    text-align: center;
+    font-weight: 100;
+    font-size: 30;
+    margin-top: 15px;
+    background-position: center;
+    padding-left:60px;
+    padding-right:60px;
+}
+
+.logo2 {
+    text-align: center;
+}
+
+.logo2 h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 250;
+    border-top: 5px solid #ffffff;
+    border-bottom: 5px solid #ffffff;
+    height: 420px;
+    margin-top: 0px;
+    background-image: url('utah1.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+.logo2 p {
+    color: white;
+    margin-top: -330px;
+    font-weight: 100;
+    font-size: 100;
+}
+
+.a2{
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    font-size: 60;
+    background-color: sandybrown;
+    border: 5px solid #ffffff;
+    border-radius: 360px;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.a3 {
+    text-align: left;
+    font-weight: 100;
+    font-size: 30;
+    margin-top: 15px;
+    background-position: center;
+    padding-left:60px;
+    padding-right:60px;
+    list-style-type: circle;
+}
+
+.photo {
+    text-align: center;
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    border-bottom-color: sandybrown;
+    color: sandybrown;
+    outline-color: sandybrown;
+    padding: 0; 
+}
+
+.logo3 {
+    text-align: center;
+}
+
+.logo3 h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 200;
+    border-top: 5px solid #ffffff;
+    border-bottom: 5px solid #ffffff;
+    height: 420px;
+    margin-top: 0px;
+    background-image: url('utah1.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+.logo3 p {
+    color: white;
+    margin-top: -330px;
+    font-weight: 100;
+    font-size: 120;
+}
+
+.logo4 {
+    text-align: center;
+}
+
+.logo4 h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 170;
+    border-top: 5px solid #ffffff;
+    border-bottom: 5px solid #ffffff;
+    height: 420px;
+    margin-top: 0px;
+    background-image: url('utah1.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+.logo4 p {
+    color: white;
+    margin-top: -330px;
+    font-weight: 100;
+    font-size: 120;
+}
+
+.logo5 {
+    text-align: center;
+}
+
+.logo5 h1 {
+    color: white;
+    font-weight: 100;
+    font-size: 220;
+    border-top: 5px solid #ffffff;
+    border-bottom: 5px solid #ffffff;
+    height: 420px;
+    margin-top: 0px;
+    background-image: url('utah1.jpg');
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+.logo5 p {
+    color: white;
+    margin-top: -330px;
+    font-weight: 100;
+    font-size: 120;
+    font-style: italic;
